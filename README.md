@@ -2,11 +2,7 @@
   <img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg" />
 </p>
 
-# About me
-
-Recently, i feel interested in some discord bot service like MEE6, Dyno, ... and then decided to create one on my own.
-
-# About it
+# About
 This bot is a simple customized discord bot, written by myself, used to greet server newcomers and also farewell to the leavers.
 
 Now, let's call it by the default name: ***!receptionist***
